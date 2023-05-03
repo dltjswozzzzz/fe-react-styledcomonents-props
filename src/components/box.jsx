@@ -20,8 +20,8 @@ const BoxText = styled.p`
 const Box = (props) => {
   return (
     <>
-      <BoxEach boxColor={props.boxColor}>
-        <BoxText></BoxText>
+      <BoxEach boxColor={props.bo}>
+        <BoxText>{props.text}</BoxText>
       </BoxEach>
     </>
   );
