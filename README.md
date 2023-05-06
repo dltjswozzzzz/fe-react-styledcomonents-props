@@ -61,4 +61,6 @@ const circleColorArr = ["pink","red","black","gray","green","blue","orange"];
 
 
 <img width="579" alt="image" src="https://user-images.githubusercontent.com/100525337/235416326-bb6c6c71-1e17-4272-a78c-761d373cf0b9.png">
+![image](https://user-images.githubusercontent.com/98015246/236612925-e2d86063-9b9d-45b2-be5f-b83b9101bd3e.png)
+![image](https://user-images.githubusercontent.com/98015246/236613003-69cd8bd4-3541-4544-9315-4e264f1c83ee.png)
 
