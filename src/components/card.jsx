@@ -38,6 +38,7 @@ const CardButton = styled.button`
   border-radius: 20px;
   margin: 0 0 0 10px;
   border-width: 0px;
+  cursor: pointer;
 `;
 
 const CardButtonText = styled.p`
